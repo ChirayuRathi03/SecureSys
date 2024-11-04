@@ -1,0 +1,13 @@
+colored
+termcolor
+dash
+dash-bootstrap-components
+pandas
+plotly
+pdfkit
+Flask
+tabulate
+kaleido
+reportlab
+plotly
+openpyxl

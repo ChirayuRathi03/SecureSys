@@ -23,14 +23,11 @@ Ensure the required Python packages are installed by running:
 
 ```bash
 pip install -r requirements.txt
-
+'''
 Installation
 To clone and set up SecureSys:
 
 Clone this repository:
-
-bash
-Copy code
 git clone https://github.com/ChirayuRathi03/SecureSys.git
 cd SecureSys
 Install dependencies:

@@ -23,7 +23,6 @@ Ensure the required Python packages are installed by running:
 
 ```bash
 pip install -r requirements.txt
-'''
 Installation
 To clone and set up SecureSys:
 
